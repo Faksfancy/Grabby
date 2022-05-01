@@ -1,0 +1,23 @@
+{
+  "name": "faks-figma",
+  "version": "1.0.0",
+  "description": "",
+  "main": ".htmlnanorc.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Faksfancy/Grabby.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Faksfancy/Grabby/issues"
+  },
+  "homepage": "https://github.com/Faksfancy/Grabby#readme",
+  "devDependencies": {
+    "parcel-bundler": "^1.12.4"
+  }
+}
